@@ -40,6 +40,14 @@
 
 <br>
 
+<!-- TITLE with Animated Typing Effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Sample+Guitar+Tab+Sheet" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="readme-assets/Ode to Joy Tablature_page-0001.jpg" alt="Channel Trailer" width="1000">
+</p>
 
 <p align="center">
   <img src="readme-assets/Some Notable Covers (1000 x 40 px).png" alt="Channel Trailer" width="1000">
